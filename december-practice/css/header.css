@@ -1,24 +1,41 @@
 .header {
-  background-color: blanchedalmond;
+  /* background-color: blanchedalmond; */
   font-family: "Noto Serif", serif;
   width: 1680px;
-  height: 57px;
+  height: 45px;
+  margin-top: 39px;
+  margin-left: 120px;
+  display: flex;
 }
 .logo {
-  width: 174px;
-  height: 57px;
-  margin-left: 120px;
-  margin-top: 39px;
+  width: 100px;;
 }
 .navmenu {
   display: flex;
   justify-content: center;
-  margin-top: 51.61px;
-  margin-left: 100px;
+  gap: 50px;
+  margin-left: 550px;
+  margin-top: 10px;
 }
 
 .account {
   display: flex;
-  justify-content: end;
-  margin-left: 1000px;
+  margin-left: 500px;
+  margin-top: 10px;
+  gap: 10px;
 }
+
+.account img {
+  width: 20px;
+  height: 20px;
+ 
+}
+
+.search {
+  margin-top: 10px;
+  margin-left: 30px;
+}
+
+/* .line {
+  
+} */

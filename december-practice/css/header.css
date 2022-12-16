@@ -42,6 +42,10 @@
 }
 
 .main {
+}
+
+.background {
+  display: flex;
   margin-left: 120px;
   margin-top: 30px;
   background: url(/images/main-banner.png);
@@ -50,6 +54,70 @@
 }
 
 .headername {
-  display: flex;
-  margin-top: 120px;
+  /* display: flex;
+  justify-content: flex-start; */
+  font-size: 50px;
+  font-family: "Noto Serif";
+  font-weight: bold;
+  font-style: normal;
+  font-size: 65px;
+  margin-left: 170px;
+  margin-top: 330px;
+  max-width: 1000px;
+  max-height: 100px;
+}
+
+
+
+.button {
+  background: rgb(243, 112, 60);
+  width: 200px;
+  height: 60px;
+  font-family: "Noto Serif", serif;
+  font-weight: 200;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  border: 0px;
+}
+
+.whitebox {
+  width: 1000px;
+  height: 150px;
+  background: white;
+  margin-top: 360px;
+  margin-left: 510px;
+  /* border: 2px solid black; */
+}
+
+.button2 {
+  margin-top: 45px;
+  margin-left: 750px;
+  background: rgb(243, 112, 60);
+  width: 200px;
+  height: 65px;
+  font-family: "Noto Serif", serif;
+  font-weight: 200;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  border: 0px;
+}
+
+.button-arrow {
+  width: 50px;
+  height: 50px;
+  background: rgb(243, 112, 60);
+  margin-left: 120px;
+  margin-top: 20px;
+  border: 0px;
+}
+
+.button-arrow2 {
+  width: 50px;
+  height: 50px;
+  background: white;
+  margin-left: 200px;
+  margin-top: 20px;
+  border: 1px solid lightgray;
 }

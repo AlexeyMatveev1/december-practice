@@ -8,7 +8,7 @@
   display: flex;
 }
 .logo {
-  width: 100px;;
+  width: 100px;
 }
 .navmenu {
   display: flex;
@@ -28,7 +28,6 @@
 .account img {
   width: 20px;
   height: 20px;
- 
 }
 
 .search {
@@ -36,6 +35,21 @@
   margin-left: 30px;
 }
 
-/* .line {
-  
-} */
+.line {
+  margin-left: 10px;
+  width: 1px;
+  background: lightgray;
+}
+
+.main {
+  margin-left: 120px;
+  margin-top: 30px;
+  background: url(/images/main-banner.png);
+  max-width: 1680px;
+  height: 1000px;
+}
+
+.headername {
+  display: flex;
+  margin-top: 120px;
+}

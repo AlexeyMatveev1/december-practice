@@ -54,23 +54,18 @@
 }
 
 .headername {
-  /* display: flex;
-  justify-content: flex-start; */
-  font-size: 50px;
   font-family: "Noto Serif";
   font-weight: bold;
   font-style: normal;
   font-size: 65px;
   margin-left: 170px;
   margin-top: 330px;
-  max-width: 1000px;
-  max-height: 100px;
+  /* max-width: 1000px;
+  max-height: 100px; */
 }
 
-
-
 .button {
-  background: rgb(243, 112, 60);
+  background: #ff715b;
   width: 200px;
   height: 60px;
   font-family: "Noto Serif", serif;
@@ -87,13 +82,13 @@
   background: white;
   margin-top: 360px;
   margin-left: 510px;
-  /* border: 2px solid black; */
+  border: 2px solid black;
 }
 
 .button2 {
   margin-top: 45px;
   margin-left: 750px;
-  background: rgb(243, 112, 60);
+  background: #ff715b;
   width: 200px;
   height: 65px;
   font-family: "Noto Serif", serif;
@@ -107,7 +102,7 @@
 .button-arrow {
   width: 50px;
   height: 50px;
-  background: rgb(243, 112, 60);
+  background: #ff715b;
   margin-left: 120px;
   margin-top: 20px;
   border: 0px;
@@ -117,7 +112,19 @@
   width: 50px;
   height: 50px;
   background: white;
-  margin-left: 200px;
+  margin-left: 30px;
   margin-top: 20px;
   border: 1px solid lightgray;
+}
+
+.line2 {
+  border-bottom: 1px solid lightgray;
+  width: 234px;
+  margin-left: 300px;
+}
+
+.number {
+  margin-left: 550px;
+  width: 100px;
+  height: 100px;
 }

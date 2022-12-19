@@ -3,3 +3,8 @@ a {
   color: #444444;
 
 }
+
+li {
+  margin-top: 20px;
+  list-style: "-";
+}

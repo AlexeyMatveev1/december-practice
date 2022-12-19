@@ -1,0 +1,147 @@
+footer {
+    margin-top: 120px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.footer_content {
+    /* margin-top: 300px; */
+    display: flex;
+    line-height: 30px;
+}
+
+.footerlogo1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 44px;
+    width: 44px;
+    background: #1abe84;
+    border-radius: 50%;
+    margin-bottom: 25px;
+}
+
+.footertext {
+    width: 391px;
+    font-family: "Product Sans";
+    font-style: normal;
+    font-size: 17px;
+    color: #A79997;
+
+}
+
+.phone {
+    margin-top: 15px;
+    line-height: 50px;
+}
+
+.email {
+    margin-top: 10px;
+    line-height: 50px;
+} 
+
+.location {
+    margin-top: 10px;
+    line-height: 50px;
+}
+
+.footertext2 {
+    width: 391px;
+    height: 28px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 28px;
+    color: #848484;
+
+    margin-top: 40px;
+    /* margin-left: 190px; */
+}
+.quicklinks {
+    height: 45px;
+    font-family: "Noto Serif", serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+    display: flex;
+}
+.column1 {
+    margin-left: 50px;
+    width: 300px;
+    height: 190px;
+    font-family: "Product Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    color: #A79997;
+}
+.support {
+    height: 45px;
+    font-family: "Noto Serif", serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+}
+.column2 {
+    height: 190px;
+    width: 300px;
+    font-family: "Product Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    color: #A79997;
+}
+.newsletter {
+    font-family: "Noto Serif", serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+}
+
+.block {
+    margin-top: 30px;
+    width: 400px;
+    height: 60px;
+    background-color: #F5EBE9;
+}
+
+
+.button3 {
+    margin-top: 20px;
+    background: #ff715b;
+    width: 200px;
+    height: 60px;
+    font-family: "Noto Serif", serif;
+    font-weight: 200;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    border: 0px;
+}
+
+.line3 {
+    margin-top: 81px;
+    margin-bottom: 80px;
+    width: 1680px;
+    height: 0.6px;
+    background-color:#F5EBE9;
+}
+
+.text2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-family: "Product Sans";
+    font-weight: 400;
+    font-size: 18px;
+    color: #A79997;
+
+}
+
+.name {
+    margin-left: 3px;
+    color: #ff715b;
+}
